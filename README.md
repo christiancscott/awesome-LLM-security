@@ -8,11 +8,11 @@ This resource is ideal for red teams and developers focused on building and perf
 ## Table of Contents
 - [🔎 LLM AI Threat Modeling And Planning Resources](#-llm-ai-threat-modeling-and-planning-resources)
 - [🧭 AI Security Frameworks](#-ai-security-frameworks)
-- [⚔️ LLM And GenAI Security Testing Tools](#-llm-and-genai-security-testing-tools)
+- [⚔️ LLM And GenAI Security Testing Tools](#️-llm-and-genai-security-testing-tools)
 - [🎯 Common Prompt Injection & Jailbreaking Techniques](#-common-prompt-injection--jailbreaking-techniques)
-- [💬 Common Evasion Techniques](#-common-evasion-techniques)
-- [⚙️ Common Traditional Technical Vulnerabilities](#-common-traditional-technical-vulnerabilities)
-- [🛡️ LLM Defensive Tools & Resources](#-llm-defensive-tools--resources)
+- [💬 Common Evasion Techniques](#-common-evasion-techiques)
+- [⚙️ Common Traditional Technical Vulnerabilities](#️-common-traditional-technical-vulnerabilities)
+- [🛡️ LLM Defensive Tools & Resources](#️-llm-defensive-tools--resources)
 - [🔬 Training And Labs](#-training-and-labs)
 - [📚 Additional Learning Resources](#-additional-learning-resources)
 
@@ -72,7 +72,7 @@ This resource is ideal for red teams and developers focused on building and perf
 
 ---
 
-## 💬 Common Evasion Techiques Leverage In Tandem
+## 💬 Common Evasion Techiques
 
 | Evasion Technique        | Description                                                                                                                                                                             | Example Scenarios                                                                                                                                                          |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
