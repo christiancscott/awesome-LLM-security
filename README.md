@@ -1,6 +1,9 @@
 
 # 🤖 Awesome Large Language Model (LLM) And Generative Artificial Intelligence (GenAI) Security Testing Resources
-This document services a a curated compendium of frameworks,tools and resources for performing threat modeling and security testing on LLMs and generative AI applications. This collection includes threat modeling methodologies, vulnerability databases, security testing tools, defensive resources, and learning materials aimed at securing AI systems against attacks like prompt injection, adversarial manipulation, and data poisoning. This resource is ideal for red teams and developers focused on building and testing LLM AI applications.
+This document services a a curated compendium of frameworks, tools, techniques and resources for performing threat modeling and security testing on LLMs and generative AI applications. This collection includes threat modeling methodologies, vulnerability databases, prompt injection & jailbreaking techniques, specific security testing tools, defensive resources, and learning materials aimed at securing AI systems against attacks like prompt injection, adversarial manipulation, and data poisoning.
+This resource is ideal for red teams and developers focused on building and performing security testing LLM AI applications.
+
+**Author(s):** Christian Scott
 
 
 ## 🔎 LLM AI Threat Modeling And Planning Resources
