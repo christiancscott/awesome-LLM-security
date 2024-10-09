@@ -1,7 +1,12 @@
 
 # 🤖 Awesome Large Language Model (LLM) And Generative Artificial Intelligence (GenAI) Security Testing Resources
-This document services a a curated compendium of frameworks, tools, techniques and resources for performing threat modeling and security testing on LLMs and generative AI applications. This collection includes threat modeling methodologies, vulnerability databases, prompt injection & jailbreaking techniques, specific security testing tools, defensive resources, and learning materials aimed at securing AI systems against attacks like prompt injection, adversarial manipulation, and data poisoning.
-This resource is ideal for red teams and developers focused on building and performing security testing LLM AI applications.
+As organizations adopt and integrate large language models and agents across their customer-facing applications and corporate systems it brings to light several novel attack vectors that malicious actors might leverage against hashtag LLM models to compromise company systems and confidential data. In particular, LLMs pose many unique cybersecurity challenges because the control and data planes cannot easily be isolated as well as that LLMs are nondeterministic by design, which means they frequently yield a different outcome for the same prompt.
+
+What this means is how LLMs are threat modeled and pentested requires an entirely new set of techniques to understand the risks presented by an LLM. In many instances, performing penetration testing and security testing on LLM agents incorporates not just traditional techniques but also many aspects of social engineering that engineers may have not previously considered.
+
+This document services a a curated compendium of frameworks, tools, techniques and resources for performing threat modeling and security testing on LLMs and generative AI applications.
+This collection includes threat modeling methodologies, vulnerability databases, prompt injection & jailbreaking techniques, specific security testing tools, defensive resources, and learning materials aimed at securing AI systems against attacks like prompt injection, adversarial manipulation, and data poisoning.
+This resource is most ideal for red teams and developers focused on building and performing security testing LLM AI applications.
 
 **Author(s):** Christian Scott
 
