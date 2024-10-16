@@ -50,6 +50,8 @@ This resource is most ideal for red teams and developers focused on building and
 - [Open Prompt Injection](https://github.com/liu00222/Open-Prompt-Injection) - An open-source toolkit for attacks and defenses in LLM-integrated applications, which enables implementation, evaluation, and extension of attacks, defenses, and LLMs.
 - [AgentPoison](https://github.com/BillChan226/AgentPoison) - Red-teaming LLM agents via memory or knowledge base backdoor poisoning
 - [Garak](https://github.com/leondz/garak) - garak checks if an LLM can be made to fail in a way we don't want. garak probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses.
+- [Power-PWN](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
+
 
 ---
 
