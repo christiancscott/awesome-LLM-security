@@ -49,6 +49,7 @@ This resource is most ideal for red teams and developers focused on building and
 - [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz) - Prompt Fuzzer is an interactive tool which assesses the security of your GenAI application's system prompt against various dynamic LLM-based attacks. It provides a security evaluation based on the outcome of these attack simulations, enabling you to strengthen your system prompts as needed.
 - [Open Prompt Injection](https://github.com/liu00222/Open-Prompt-Injection) - An open-source toolkit for attacks and defenses in LLM-integrated applications, which enables implementation, evaluation, and extension of attacks, defenses, and LLMs.
 - [AgentPoison](https://github.com/BillChan226/AgentPoison) - Red-teaming LLM agents via memory or knowledge base backdoor poisoning
+- [Kybernis Audit](https://github.com/Kybernis/kybernis-audit) - The open-source chaos engineering fuzzer and risk scanner for AI Agents. Tests LangChain/LlamaIndex tools for execution safety, duplicate mutations, and retry hazards.
 - [Garak](https://github.com/leondz/garak) - garak checks if an LLM can be made to fail in a way we don't want. garak probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses.
 - [Power-PWN](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
 
