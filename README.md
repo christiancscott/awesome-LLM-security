@@ -1,4 +1,5 @@
 
+- [Prefactor](https://prefactor.tech/) - An AI agent runtime control plane offering runtime visibility, governance, policy enforcement, and observability for AI agents in production, with integrations for LangChain, CrewAI, Claude, OpenAI, and more.
 # 🤖 Awesome Large Language Model (LLM) And Generative Artificial Intelligence (GenAI) Security Testing Resources
 As organizations adopt and integrate large language models and agents across their customer-facing applications and corporate systems it brings to light several novel attack vectors that malicious actors might leverage against hashtag LLM models to compromise company systems and confidential data. In particular, LLMs pose many unique cybersecurity challenges because the control and data planes cannot easily be isolated as well as that LLMs are nondeterministic by design, which means they frequently yield a different outcome for the same prompt.
 
