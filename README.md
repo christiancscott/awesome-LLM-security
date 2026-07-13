@@ -51,6 +51,7 @@ This resource is most ideal for red teams and developers focused on building and
 - [AgentPoison](https://github.com/BillChan226/AgentPoison) - Red-teaming LLM agents via memory or knowledge base backdoor poisoning
 - [Garak](https://github.com/leondz/garak) - garak checks if an LLM can be made to fail in a way we don't want. garak probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses.
 - [Power-PWN](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
+- [AI Red Team](https://github.com/veriyoung/ai-redteam) - AI安全自动化红队测试工具。内置 30+ OWASP LLM Top 10 攻击模板，支持 9 种变异算子、三种裁判模式（关键词/LLM-as-Judge/混合），CI/CD 原生集成，输出 JSON/HTML/JUnit 报告。中国本土化适配（文言文、谐音字等攻击模板）。
 
 
 ---
