@@ -51,6 +51,7 @@ This resource is most ideal for red teams and developers focused on building and
 - [AgentPoison](https://github.com/BillChan226/AgentPoison) - Red-teaming LLM agents via memory or knowledge base backdoor poisoning
 - [Garak](https://github.com/leondz/garak) - garak checks if an LLM can be made to fail in a way we don't want. garak probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses.
 - [Power-PWN](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
+- [Redcells](https://redcells.net) - Automated adversarial testing platform for OpenAI-compatible LLMs. Submit a target model and intent (prompt injection, jailbreak, data leakage) and it runs an iterative attack-to-refine pipeline with per-layer prompts, responses, and judge scores in a dashboard and API.
 
 
 ---
