@@ -113,6 +113,7 @@ This resource is most ideal for red teams and developers focused on building and
 - [Rebuff](https://github.com/protectai/rebuff) - Rebuff is designed to protect AI applications from prompt injection (PI) attacks through a multi-layered defense that involves heuristics, LLM-based detection and canary tokens.
 - [anonLLM](https://github.com/fsndzomga/anonLLM) - anonLLM is a Python package designed to anonymize personally identifiable information (PII) in text data before it's sent to Language Model APIs like GPT-3. The goal is to protect user privacy by ensuring that sensitive data such as names, email addresses, and phone numbers are anonymized.
 - [PromptFoo - Guardrail API](https://www.promptfoo.dev/docs/red-team/guardrails/) - An API designed for implementing guardrails which helps detect potential security risks in user inputs to language models, identify personally identifiable information (PII), and assess potential harm in content.
+- [TraceGuard](https://github.com/ve-loma/traceguard) - A local runtime guard for AI agents that decides allow/block deterministically before tool calls execute (so prompt injection cannot bypass the check), trips a three-state circuit breaker when an agent keeps retrying the same dangerous action, and snapshots file writes so completed actions can be rolled back. No network calls; core is MIT.
 
 ### 🔬 Training And Labs
 
