@@ -113,6 +113,7 @@ This resource is most ideal for red teams and developers focused on building and
 - [Rebuff](https://github.com/protectai/rebuff) - Rebuff is designed to protect AI applications from prompt injection (PI) attacks through a multi-layered defense that involves heuristics, LLM-based detection and canary tokens.
 - [anonLLM](https://github.com/fsndzomga/anonLLM) - anonLLM is a Python package designed to anonymize personally identifiable information (PII) in text data before it's sent to Language Model APIs like GPT-3. The goal is to protect user privacy by ensuring that sensitive data such as names, email addresses, and phone numbers are anonymized.
 - [PromptFoo - Guardrail API](https://www.promptfoo.dev/docs/red-team/guardrails/) - An API designed for implementing guardrails which helps detect potential security risks in user inputs to language models, identify personally identifiable information (PII), and assess potential harm in content.
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 ### 🔬 Training And Labs
 
