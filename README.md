@@ -122,6 +122,8 @@ This resource is most ideal for red teams and developers focused on building and
 - [DamnVulnerableLLMProject](https://github.com/harishsg993010/DamnVulnerableLLMProject) - The DamnVulnerableLLMProject is an educational project designed for security researchers to enhance their skills in identifying and addressing vulnerabilities in LLM (Language Model) applications. Vulnerabilities include: Prompt injection, Sensitive Data Disclosure on LLM, Unauthorized Code Injection on LLM, Improper Access Control on LLM APIs and LLM Model Poisoning
 - [AI Goat](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges. AI Goat uses the Vicuna LLM which derived from Meta's LLaMA and coupled with ChatGPT's response data. In addition to traditional threats, LLM CTFs include: Prompt Injection, Insecure Output Handling, Training Data Poisoning, Denial of Service, Supply Chain, Permission Issues, Data Leakage, Excessive Agency, Overreliance and Insecure Plugins.
 
+- [Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab) - Local educational lab for persistent agent-memory poisoning, origin-aware defenses and bounded repair on real memory backends, using synthetic targets and a scripted deterministic agent rather than an LLM.
+
   ## 📚 Additional Learning Resources
 - [Demonstrating Indirect Prompt Injection Attacks On Bing Chat](https://github.com/greshake/llm-security) - A set of comprehensive yet practical demonstrations of various indirect prompt injection attacks on LLMs.
 - [A Sample Company Policy For Large Language Model Artificial Intelligence](https://github.com/christiancscott/LLM-AI-Sample-Policy) - A template for organizations to establish responsible AI usage policies.
